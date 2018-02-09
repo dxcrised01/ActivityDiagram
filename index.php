@@ -2,7 +2,7 @@
     <html>
     <head></head>
     <body>
-    <div><img src='1.jpg'></div>
+    <div><img src='1.jpg'><img src='2.PNG'></div>
     
     </body>
  </html>
